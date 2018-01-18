@@ -1,2 +1,3 @@
-# Object-Oriented-Programming-CPP
-Programs and assignments done for OOP in C++.
+# Object-Oriented Programming: C++
+Programs and assignments done for OOP in the C++ language. 
+
